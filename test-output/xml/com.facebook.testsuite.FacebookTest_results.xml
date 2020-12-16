@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sanity Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.156">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNotLoginWithoutEnteringEmailId" time="2.573" classname="com.facebook.testsuite.FacebookTest" />
+                <testcase name="verifyUserIsOnSignUpPageSuccessfully" time="4.074" classname="com.facebook.testsuite.FacebookTest" />
+                <testcase name="verifyUserEnterRegisterDetailsSuccessfully" time="4.509" classname="com.facebook.testsuite.FacebookTest" />
+      
+</testsuite>
